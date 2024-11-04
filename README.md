@@ -3,7 +3,7 @@
 Este projeto implementa um classificador de dígitos baseado no algoritmo supervisionado **K-Nearest Neighbors (KNN)**. O classificador foi treinado utilizando o dataset MNIST, que contém imagens de dígitos escritos à mão. O objetivo do projeto é identificar corretamente os dígitos de 0 a 9 a partir das características fornecidas pelas imagens.
 
 ## Status do Projeto
-🏆 Concluído
+- Concluído.
 
 ## Descrição
 
